@@ -24,9 +24,11 @@ Database Connection:
 Connecting to the MySQL database from the Go application.
 
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/6d840e52-689f-4666-9d08-0c88e8ccbda3">
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/d6a6282e-4de2-4ba9-a449-65bb594f3351">
 
 Return Time in JSON:
+
 <img width="468" alt="image" src="https://github.com/user-attachments/assets/e4cc8d18-9058-4f6a-97b1-c16c7ec1cba8">
 
 
