@@ -1,0 +1,2 @@
+2024/11/28 10:03:18 Database credentials are not set in environment variables
+2024/11/28 10:13:26 Error connecting to database: Error 1045 (28000): Access denied for user ''@'localhost' (using password: NO)
